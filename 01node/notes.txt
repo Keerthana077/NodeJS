@@ -1,0 +1,2 @@
+This is the updated text
+This content is appended to the file
